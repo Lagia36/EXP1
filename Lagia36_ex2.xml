@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<informacion>
+<inf>
+<name>Data</name>
+<dia>29/12/2019</dia>
+<name>Descripción</name>
+<ds>Llista de compra per nadal</ds>
+<name>Responsable</name>
+<us>Juan</us>
+<name>Urgéncia</name>
+<ug>Mitja</ug>
+<name>Echo</name>
+<ft>Si</ft>
+</inf>
+<inf>
+<name>Data</name>
+<dia>01/01/2020</dia>
+<name>Descripción</name>
+<ds>Recollir restes sopar </ds>
+<name>Responsable</name>
+<us>Juan</us>
+<name>Urgéncia</name>
+<ug>Alta</ug>
+<name>Echo</name>
+<ft>No</ft>
+</inf>
+<inf>
+<name>Data</name>
+<dia>05/01/2020</dia>
+<name>Descripción</name>
+<ds>Embolicar regals  </ds>
+<name>Responsable</name>
+<us>Maria</us>
+<name>Urgéncia</name>
+<ug>Mediana</ug>
+<name>Echo</name>
+<ft>No</ft>
+</inf>
+<inf>
+<name>Data</name>
+<dia>06/01/2020</dia>
+<name>Descripción</name>
+<ds>Cena de relles</ds>
+<name>Responsable</name>
+<us>Todos</us>
+<name>Urgéncia</name>
+<ug>Alta</ug>
+<name>Echo</name>
+<ft>No</ft>
+</inf>
+<inf>
+<name>Data</name>
+<dia>07/01/2020</dia>
+<name>Descripción</name>
+<ds>Preparar tornada </ds>
+<name>Responsable</name>
+<us>Joan</us>
+<name>Urgéncia</name>
+<ug>Baixa</ug>
+<name>Echo</name>
+<ft>No</ft>
+</inf>
+</informacion>
